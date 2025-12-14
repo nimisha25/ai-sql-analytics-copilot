@@ -1,3 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/nimisha25/ai-sql-analytics-copilot/blob/main/notebook/ai_sql_analytics_copilot.ipynb
+)
+> Interactive charts are best viewed by running the notebook in Colab.
+
 # AI-Powered SQL Analytics Copilot
 
 A multi-agent LLM system that converts natural-language analytics questions
